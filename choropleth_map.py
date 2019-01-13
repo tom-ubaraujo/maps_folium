@@ -20,4 +20,4 @@ folium.Choropleth(
 ).add_to(map)
 
 #Save the map
-map.save("map2.html")
+map.save("base_map2.html")
